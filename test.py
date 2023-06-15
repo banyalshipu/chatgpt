@@ -1,6 +1,6 @@
 #main.py
 import os
-import tempfile
+
 from dotenv import load_dotenv
 from langchain import PromptTemplate, LLMChain
 from langchain.llms import OpenAI
